@@ -3,8 +3,8 @@
 Scripts for vaccinating your PC against paranoid malware, as demonstrated on FIRST TC Amsterdam 2017.
 
 This repository contains:
-1. Scripts for vaccination
-2. One of IRONGATE's components source code
+1. Scripts for vaccination, as discussed demonstrated in the talk
+2. One of IRONGATE's components source code (warning, malware!)
 3. A list of malware which will be prevented during the live demo
 
 ## Demo Samples 
